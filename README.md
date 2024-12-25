@@ -67,7 +67,6 @@ endmodule
 
 ![image](https://github.com/user-attachments/assets/2d8466b6-94ae-4681-9100-24cb340c85f3)
 
-![image](https://github.com/user-attachments/assets/b63f46ce-c0d7-4b70-84ad-e692c0e0fe66)
 
 
 
